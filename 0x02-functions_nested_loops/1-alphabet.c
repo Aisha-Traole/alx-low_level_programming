@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - main block 
+ * main - main block
  * Description : print alpabet lower case
- * Return: void
+ * Return: Always 0 (Success)
  */
 void print_alphabet(void)
 {
