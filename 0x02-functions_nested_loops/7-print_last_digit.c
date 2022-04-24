@@ -1,4 +1,4 @@
-#include "man.h"
+#include "main.h"
 /**
  * print_last_digit - return last digit
  * @n: number to chech
