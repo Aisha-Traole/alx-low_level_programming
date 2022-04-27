@@ -18,7 +18,7 @@ int main(void)
 		{
 			total = total + start_num;
 		}
-		else 
+		else
 		{
 			continue;
 		}
